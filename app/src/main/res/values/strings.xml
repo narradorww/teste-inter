@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Evaluation</string>
+    <string name="a_fotos">A</string>
+    <string name="a_details">A</string>
+    <string name="a_titulopostagem">A</string>
+    <string name="a_comentario">A</string>
+    <string name="nome_da_foto">Nome da foto</string>
+    <string name="imagem_do_album">imagem do album</string>
+</resources>
